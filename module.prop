@@ -1,0 +1,6 @@
+id=dsp_audio_fix
+name=DSP Audio Fix
+version=v1.0
+versionCode=1
+author=Ahmed Al-Nassif (ahmed-alnassif)
+description=Fixes DSP race condition by restarting audio HAL 20s after boot
